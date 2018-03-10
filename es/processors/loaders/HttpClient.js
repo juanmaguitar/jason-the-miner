@@ -1,13 +1,13 @@
 const nodeUrl = require('url');
 const path = require('path');
-const axios = require('axios');
+const client = require('request-promise');
 const debug = require('debug')('jason:load:http');
 
 const REGEX_ABSOLUTE_LINK = /^https?:\/\//;
 
 /**
- * Requests data via HTTP. Depends on the "axios" package.
- * @see https://github.com/mzabriskie/axios
+ * Requests data via HTTP. Depends on the "request-promise" package.
+ * @see https://github.com/request/request
  */
 class HttpClient {
   /**
@@ -29,13 +29,15 @@ class HttpClient {
         loaderConfig[key.slice(1)] = config[key];
       }
     });
+    debug(config);
 
-    this._httpClient = axios.create(httpConfig);
     this._config = { concurrency: 1, ...loaderConfig };
     this._config.concurrency = Number(this._config.concurrency); // just in case
+    this._httpConfig = httpConfig;
+
+    this._httpClient = { request: client };
 
     debug('HttpClient instance created.');
-    debug('HTTP defaults', JSON.stringify(this._httpClient.defaults));
     debug('loader config', this._config);
   }
 
@@ -44,32 +46,34 @@ class HttpClient {
    * @return {Promise.<string>|Promise.<Error>}
    */
   async run(httpConfig) {
-    Object.assign(this._httpClient.defaults, httpConfig);
+    Object.assign(this._httpConfig, httpConfig);
 
-    const { method = 'get', url, params = '' } = this._httpClient.defaults;
+    const { method = 'get', uri: url, qs: params = '' } = this._httpConfig;
 
     debug('%s %s...', method.toUpperCase(), url, params);
 
     try {
-      const response = await this._httpClient.request();
+      const response = await this._httpClient.request(this._httpConfig);
 
-      const {
+      const data = response;
+
+      /* const {
         config,
-        status,
+        statusCode: status,
         statusText,
         headers,
         data,
       } = response;
 
       // eslint-disable-next-line no-shadow
-      const { method = 'get', url, params = '' } = config;
+      const { method = 'get', uri: url, qs: params = '' } = config;
 
       const contentLength = headers['content-length'] !== undefined ?
         headers['content-length'] :
         '?';
 
       debug('%s %s: %s (%d)', method.toUpperCase(), url, statusText, status, params);
-      debug('%s chars received.', contentLength);
+      debug('%s "%s" chars received.', contentLength, headers['content-type']); */
 
       return data;
     } catch (requestError) {

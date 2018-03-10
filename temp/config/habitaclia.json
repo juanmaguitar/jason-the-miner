@@ -1,11 +1,12 @@
 {
   "load": {
     "http": {
-      "url": "https://www.habitaclia.com/comprar-vivienda-terraza_ascensor_chimenea_en-maresme/provincia_barcelona/listainmuebles.htm",
-      "method": "POST",
-      "params": {
+      "uri": "https://www.habitaclia.com/comprar-vivienda-terraza_ascensor_chimenea_en-maresme/provincia_barcelona/listainmuebles.htm",
+      "method": "GET",
+      "qs": {
         "pvp_max": "120000"
-      }
+      },
+      "encoding": "latin1"
     }
   },
   "parse": {
@@ -17,7 +18,7 @@
         "description": ".descripcion | trim",
         "price": "[itemprop='price']",
         "outOfPrice": ".tipoAdy span"
-        
+
       }]
     }
   },

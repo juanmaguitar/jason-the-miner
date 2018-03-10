@@ -66,6 +66,8 @@
     "nodemailer": "^2.6.4",
     "ora": "^0.3.0",
     "pad-left": "^2.1.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
     "uuid": "^2.0.3"
   },
   "devDependencies": {
