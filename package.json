@@ -49,7 +49,7 @@
     "demos": "npm run demos:clean && node demos/index.js",
     "demos:clean": "clear && rm -rf demos/data/out/* && touch demos/data/out/.gitkeep",
     "demos:debug": "DEBUG=jason:* npm run demos",
-    "demo:habitaclia": "node bin/jason-the-miner.js -c config-habitaclia.json"
+    "demo:habitaclia": "node bin/jason-the-miner.js -c temp/config/habitaclia.json -d"
   },
   "dependencies": {
     "axios": "^0.16.1",
