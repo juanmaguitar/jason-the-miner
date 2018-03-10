@@ -1,0 +1,240 @@
+{
+  "title": "Vivienda con terraza con ascensor con chimenea  en Pineda de Mar - habitaclia",
+  "houses": [
+    {
+      "name": "D�plex  Centro playa. D�plex de 3 hab con terraza 80m2",
+      "description": "D�plex con gran terraza, ubicado en el centro de Pineda de mar, a un paso de todos los servicios.. cap , supermercados,...",
+      "price": "139.500 €"
+    },
+    {
+      "name": "�tico en Angel guimera, 18 tercero quinta. Vistes al mar",
+      "description": "�tic amb vistes espectaculars al Mar i muntanya. tres dormitoris, lavabo i bany complet. cuina oficce i menjador amb lla...",
+      "price": "139.500 €"
+    },
+    {
+      "name": "Piso  Avinguda mediterrani. Grande luminoso y vistas al mar",
+      "description": "Piso para los que gustan  disfrutar de grandes espacios , esta Vivienda te proporciona ademas una luz natural excepciona...",
+      "price": "209.000 €"
+    },
+    {
+      "name": "Piso en Avinguda merce, 17. Gran piso en muy buena zona",
+      "description": "Piso muy grande situado en muy buena zona de Pineda de mar, cerca del centro, de la playa, y del cap. de superficie 117...",
+      "price": "186.000 €"
+    },
+    {
+      "name": "D�plex  Carrer tarragona. Dise�o terraza a 50m del mar",
+      "description": "Con orientaci�n al Mar tienes un duplex reformado de dise�o con calefacci�n aire acondicionado y Chimenea con 3 habitaci...",
+      "price": "175.000 €"
+    },
+    {
+      "name": "Casa  Carrer huguet. Gran casa a pineda de mar",
+      "description": "Gran casa exclusiva a zona residencial propera al poble. casa a 4 vents de recent construcci� i d�alta qualitat. dispo...",
+      "price": "490.000 €"
+    },
+    {
+      "name": "Casa  Pintor fortuny. Casa de pueblo de 221m2, 5 hab",
+      "description": "Casa de pueblo de tres plantas, con 221m2 construidos, situada en Pineda de mar. se necesita reforma. la planta baja cue...",
+      "price": "220.000 €"
+    },
+    {
+      "name": "Casa  Pinemar. Palacete 400 m2 con piscina",
+      "description": "Palacete de 400 m2 cerca con piscina, pr�xima al centro de pineda. la casa muy grande consta de 6 dormitorios, 4 ba�os,...",
+      "price": "380.000 €"
+    },
+    {
+      "name": "Piso en Carrer camos, 4. Piso seminuevo en planta baja, en muy buen estado.",
+      "description": "Piso seminuevo en planta baja, en muy buen estado. disposa de 2 dormitoris amb 3 armaris encastats, bany amb gran dutxa...",
+      "price": "120.000 €"
+    },
+    {
+      "name": "Casa en Pintor fortuny, 72. Casa cantonera al centre",
+      "description": "A 54km de barcelona, amb vies com la c.32 i la n-ii, amb renfe i bus, Pineda de Mar es converteix en una magn�fica tria,...",
+      "price": "195.000 €"
+    },
+    {
+      "name": "D�plex  Carrer tarragona. D�plex pienda, 85m2+25m2 tza",
+      "description": "Piso tipo d�plex de 85 m2 y Terraza de 25m2 en calle tarragona (en segunda linea de mar, junto parada de tren pineda). d...",
+      "price": "155.000 €"
+    },
+    {
+      "name": "Piso  Carrer pelai. Piso al lado del mar",
+      "description": "Piso de 70 m2. amueblado y equipado con electrodomesticos. 2 dormitorios dobles. amplio comedor con chimenea. 1 ba�o com...",
+      "price": "165.000 €"
+    },
+    {
+      "name": "Casa en Centre. Oferton�����",
+      "description": "Fantastica propiedad construida en el 1930, y acabada en el 1944 , ha sido reformada a conciencia totalmente entre los a...",
+      "price": "575.000 €"
+    },
+    {
+      "name": "Chalet  Carrer rabassot. Chalet en venta en santa susanna",
+      "description": "Chalet en venta en santa susanna costa de barcelona; se encuentra en la urbanizaci�n la vall, muy cerca de la poblaci�n y a 5 mi...",
+      "price": "350.000 €"
+    },
+    {
+      "name": "Chalet en Santa Susanna. No se lo deje perder por calidad, acabados, zona y precio",
+      "description": "Chalet de dise�o nuevo, construido en 2.016 en parcela de 1.500 m. con muy buenas vistas al mar, zona muy tranquila ya que se en...",
+      "price": "440.000 €"
+    },
+    {
+      "name": "�tico  Avinguda mar (edif.libra). �tico con terraza de 32m2",
+      "description": "�tico en venta en santa susana  en 2� linia de Mar con Terraza de 32m2, 2 habitaciones, sal�n con chimenea, todo exterior a call...",
+      "price": "170.000 €"
+    },
+    {
+      "name": "Casa en Santa Susanna. Amb vistes al mar",
+      "description": "Casa en venda situada a santa sussana. l�habitatge t� una superf�cie construida de 275m, envoltada de 700m2 de zona enjardinada....",
+      "price": "350.000 €"
+    },
+    {
+      "name": "Casa  Centro calella. Gran casa en calella centro",
+      "description": "Gran casa de 400 m2, de reciente construcci�n, situada a 100 metros del centro de calella. se trata de una casa esquinera,  con...",
+      "price": "600.000 €"
+    },
+    {
+      "name": "�tico  Centre. C�ntrico, amplio y vistas al mar",
+      "description": "Especial �tico de 110m2 construidos situado en el mism�simo centro de calella, no se puede pedir una ubicaci�n mejor, y encima,...",
+      "price": "230.000 €"
+    },
+    {
+      "name": "Piso  Centro vista mar. La mejor vista a mar,todo exter.",
+      "description": "La mejor vista al Mar desde su terraza, piso alto, esquinero y totalmente exterior. vista panor�mica a Mar y a todo calella. 105...",
+      "price": "156.000 €"
+    },
+    {
+      "name": "Casa  Zona residelcial. Lo mejor de la zona",
+      "description": "Espectacular casa en zona residencial con vistas panor�micas a Mar y monta�a. 510m2 de casa sobre parcela de 1500m2. 4 hab.2 sui...",
+      "price": "1.350.000 €"
+    },
+    {
+      "name": "Piso  Carrer jovara. Oportunidad..!!!",
+      "description": "Piso de 105 m2, a 5 mimutos estaci�n renfe, tiene 3 habitaciones (1 suite),  ba�o completo+ 1 aseo, sal�n-comedor con chimenea,...",
+      "price": "180.000 €"
+    },
+    {
+      "name": "�tico  Centro segunda l�nea mar. Atico grande segunda l�nea mar",
+      "description": "Gran �tico con Ascensor en segunda l�nea de Mar ( junto playa ) y en pleno centro entre la playa y la plaza de la iglesia, vista...",
+      "price": "160.000 €"
+    },
+    {
+      "name": "Apartamento  Carrer bruguera. Gran piso 160m2 con piscina",
+      "description": "Gran piso triplex de 160 m2 con piscina comunitaria en centro de calella. el piso distribuido emn 3 plantas esta distribuidos, e...",
+      "price": "275.000 €"
+    },
+    {
+      "name": "Piso  Centro. Gran piso 110m2 en pleno centro!",
+      "description": "Gran piso de 110 m2 en pleno centro de calella en la calle iglesia.  la Vivienda consta de 4 habitaciones (3 dobles y 1 indivi...",
+      "price": "159.000 €"
+    },
+    {
+      "name": "Torre en Carrer sant quirze, 69. Espectacular casa de dise�o con vistas al mar.",
+      "description": "Espectacular casa de dise�o de 650 metros cuadrados con vistas al Mar y a apenas 500 m. de la poblaci�n . dotada de las mejores...",
+      "price": "845.000 €"
+    },
+    {
+      "name": "�tico  Centro. Con terraza de 100m2",
+      "description": "Espectacular y �nico �tico con vista a Mar y enorme Terraza de 100 m2 ( amplia vista a mar, monta�a y todo calella ), situaci�n...",
+      "price": "250.000 €"
+    },
+    {
+      "name": "Casa  Riera. Impresionante casa de 3 plantas",
+      "description": "Bonita casa totalmente equipada de 198m2 construidos en el centro de malgrat de mar, cerca del hospital. casa de 3 plantas con a...",
+      "price": "210.000 €"
+    },
+    {
+      "name": "D�plex en Carrer esteve forest, 4. Atico d�plex seminuevo.",
+      "description": "�tico d�plex con excelente distribuci�n, Vivienda cerca de av. mediterr�nea con todos los servicios a mano. seminuevo, gran opor...",
+      "price": "229.000 €"
+    },
+    {
+      "name": "Piso  Salida directa a la playa. Frente a la playa",
+      "description": "Si busca un apartamento en la playa no deje de visitarlo. si busca un apartamento frente al Mar este tiene acceso directo a la...",
+      "price": "200.000 €"
+    },
+    {
+      "name": "D�plex  Playa. Enorme y singular vistas mar",
+      "description": "Enorme piso de 2 plantas de 190 m2 construidos, m�s 60 m2 de Terraza con espectaculares vistas al Mar y plaza de parking en la m...",
+      "price": "350.000 €"
+    },
+    {
+      "name": "D�plex en La s�nia i,, 1. Muy luminoso",
+      "description": "D�plex con sala de estar Chimenea y techo de altura. en planta se encuentra habitaci�n doble, ba�o con plato de ducha, cocina y...",
+      "price": "185.000 €"
+    },
+    {
+      "name": "D�plex en Carrer abat deas, 67. Venta duolex en el centro de sant pol de mar",
+      "description": "Atico duplex situado en el centro de sant pol de mar, a 2 minutos de la playa i 5 min. estacion renfe. moderno y funcional idea...",
+      "price": "350.000 €"
+    },
+    {
+      "name": "Casa pareada  Carrer herois fragata numancia. Casa en sant pol de mar",
+      "description": "Vivienda tipo casa pareada en la poblaci�n de sant pol de Mar con una superficie de parcela de 320m2 y 300m2 construidos que se...",
+      "price": "400.000 €"
+    },
+    {
+      "name": "Casa en Urbanitzacions. Preciosa casa  a 3 vientos de 480m2!",
+      "description": "Impresionante casa a 3 vientos de 480m2. a primer nivel parking de 100m2, 1 ba�o una bodega y montacargas. 1� planta salo comedo...",
+      "price": "400.000 €"
+    },
+    {
+      "name": "Torre  Carrer herois fragata numancia. Torre amb piscina.",
+      "description": "Torre d�alt standing de 210 m2 per entrar a viure, semi-nova, parcel. la de 412 m2, sala-menjador + xemeneia 50 m2, cuina office...",
+      "price": "400.000 €"
+    },
+    {
+      "name": "Casa en Urbanitzacions. Espectacular casa a cuatro vientos en la monta�a de sant pol de",
+      "description": "Espectacular casa a cuatro vientos con una de las mejores vistas posibles de la costa del maresme. �con una construcci�n de 560m...",
+      "price": "850.000 €"
+    },
+    {
+      "name": "Casa pareada en Urbanitzacions. Torre magn�fica",
+      "description": "Magn�fica torre seninueva con piscina, muy cerca del club de tenis de sant pol de mar, tiene dos plantas. en la principal  encco...",
+      "price": "390.000 €"
+    },
+    {
+      "name": "Piso en Avinguda maresme, 25. D-0267",
+      "description": "D-0267 en sant cebria de vallalta, piso economico, alto 5� con Ascensor al cual se accede por una rampa ideal para cochecitos, c...",
+      "price": "72.000 €"
+    },
+    {
+      "name": "Casa en Sant Cebri� de Vallalta. Torre con piscina y tenis",
+      "description": "Magn�fica torre con vistas al Mar y monta�a sobre un terreno de 1425m2. tiene pista de tenis, piscina y mucho jard�n. la casa c...",
+      "price": "350.000 €"
+    },
+    {
+      "name": "Piso en Sant Cebri� de Vallalta. Mejora tu vida, as� de f�cil",
+      "description": "Mejora tu vida, as� de f�cil...   si buscas un lugar tranquilo, para vivir cerca de la paya (5 km) con todos los servicios en...",
+      "price": "110.000 €"
+    },
+    {
+      "name": "Piso  Avinguda maresme. Oportinidad..!!!",
+      "description": "Piso de 80 m2, en el centro de sant cebri� de vallalta, muy soleado, 3 habitaciones (2 dobles + 1 ind), 1 ba�o completo, 1 lavad...",
+      "price": "130.000 €"
+    },
+    {
+      "name": "Casa en Sant Cebri� de Vallalta. Casa 250m2 rodeada de precioso jard�n!",
+      "description": "Sant cebria de vallalta-urbanizaci�n vistamar casa seminueva en la mejor urbanizaci�n de sant cebria de vallalta, por la cercan�...",
+      "price": "399.000 €"
+    },
+    {
+      "name": "�tico en Avinguda maresme, 4. Espectacular �tic en venda amb vista impresionant",
+      "description": "�tic ubicat a 49 km. de barcelona. espectaculars vistes de sant cebria i sant pol de mar, amb la millor orientaci�. preparat p...",
+      "price": "220.000 €"
+    },
+    {
+      "name": "Torre en Sant Cebri� de Vallalta. Finca con arboles frutales",
+      "description": "Torre seminueva, en planta s�tano: garaje para 3. planta vivienda: sal�n-comedor, cocina, ba�o, habitaci�n, estudio de 50m2 y t...",
+      "price": "320.000 €"
+    },
+    {
+      "name": "D�plex  Carrer maresme. Atico-alto standing..!!!",
+      "description": "Bonito duplex 140 m2, 2 habitaciones dobles, sal�n-comedor 45 m2, cocina office 25 m2, safareig, 2 terrazas 70 m2 y 20 m2, 1 ba�...",
+      "price": "312.000 €"
+    },
+    {
+      "name": "Piso  Av. maresme, 21. Pis 2� m�-cantoner",
+      "description": "Pis 2� m� gran oportunitat, cantoner- molt soleiat: centre del poble amb ascensor- edif.92 m2. 4hb( 3 dobles+ 1 indiv) totes ext...",
+      "price": "135.000 €"
+    }
+  ]
+}

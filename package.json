@@ -48,7 +48,8 @@
     "push": "git push origin master && git push origin --tags",
     "demos": "npm run demos:clean && node demos/index.js",
     "demos:clean": "clear && rm -rf demos/data/out/* && touch demos/data/out/.gitkeep",
-    "demos:debug": "DEBUG=jason:* npm run demos"
+    "demos:debug": "DEBUG=jason:* npm run demos",
+    "demo:habitaclia": "node bin/jason-the-miner.js -c config-habitaclia.json"
   },
   "dependencies": {
     "axios": "^0.16.1",
